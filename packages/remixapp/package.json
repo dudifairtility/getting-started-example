@@ -6,7 +6,8 @@
     "build": "remix build",
     "dev": "remix dev",
     "start": "remix-serve build",
-    "test": "jest"
+    "test": "jest",
+    "log": "remix login"
   },
   "dependencies": {
     "@remix-run/node": "^1.5.1",
